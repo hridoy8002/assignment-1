@@ -1,14 +1,14 @@
 
 
 
-.open-sans-normal {
-  font-family: "Open Sans", serif;
-  font-optical-sizing: auto;
-  font-weight: auto;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
-}
+/* .open-sans-normal { */
+  /* font-family: "Open Sans", serif; */
+  /* font-optical-sizing: auto; */
+  /* font-weight: auto; */
+  /* font-style: normal; */
+  /* font-variation-settings: */
+    /* "wdth" 100; */
+
 
 .banner-1{background-color: aquamarine; 
 margin: 80px 100px 80px 100px; 
